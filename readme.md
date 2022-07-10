@@ -2,6 +2,5 @@
 
 ### Dummy APIs
 
-- [**Deno**]()
-- [**Node.js**]()
-- [**Bun**]()
+- [**Deno**](https://github.com/unvented/deno-api)
+- [**Node.js**](https://github.com/unvented/node-api)
